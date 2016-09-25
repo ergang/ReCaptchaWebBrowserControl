@@ -5,6 +5,8 @@ To run the program on a Windows Machine
 1. Down Executable from https://github.com/ergang/ReCaptchaWebBrowserControl/blob/master/ReCaptchaWebBrowserControl/bin/Release/ReCaptchaWebBrowserControl.exe
 2. OR : Open Visual Studio 2015 and run the program.
 
+##### Things to note:
+
 * The low setting page is http://ergang.github.io/reCaptchaLow.html
 * The med setting page is http://ergang.github.io/reCaptchaMedium.html
 * The page is using latest render and JS engine on the machine with the meta tag `<meta http-equiv="X-UA-Compatible" content="IE=edge">`
