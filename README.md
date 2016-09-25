@@ -21,3 +21,6 @@ https://blogs.msdn.microsoft.com/patricka/2015/01/12/controlling-webbrowser-cont
 
 ##### Medium Setting screen shot
 ![alt tag](https://raw.githubusercontent.com/ergang/ReCaptchaWebBrowserControl/master/MediumSetting.PNG)
+
+##### Acid Test score for IE 7 user agent but with IE 11 document mode
+![alt tag](https://raw.githubusercontent.com/ergang/ReCaptchaWebBrowserControl/master/AcidScore.png)

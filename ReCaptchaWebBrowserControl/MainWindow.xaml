@@ -16,6 +16,9 @@
             <TabItem Header="Low Setting" Name="Low">
                 <Grid Background="#FFE5E5E5" />
             </TabItem>
+            <TabItem Header="Acide Test" Name="Acid">
+                <Grid Background="#FFE5E5E5" />
+            </TabItem>
         </TabControl>
 
     </Grid>

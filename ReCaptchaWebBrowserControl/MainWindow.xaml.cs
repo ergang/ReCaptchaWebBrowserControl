@@ -37,6 +37,11 @@ namespace ReCaptchaWebBrowserControl
             {
                 browser.Navigate("http://ergang.github.io/reCaptchaLow.html");
             }
+
+            if(Acid.IsSelected)
+            {
+                browser.Navigate("http://ergang.github.io/Acid3.html");
+            }
         }
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
