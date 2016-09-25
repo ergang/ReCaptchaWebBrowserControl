@@ -14,3 +14,8 @@ To run the program on a Windows Machine
 
 https://blogs.msdn.microsoft.com/patricka/2015/01/12/controlling-webbrowser-control-compatibility/
 
+##### Low Setting screen shot
+![alt tag]https://raw.githubusercontent.com/ergang/ReCaptchaWebBrowserControl/master/LowSetting.png
+
+##### Medium Setting screen shot
+![alt tag]https://raw.githubusercontent.com/ergang/ReCaptchaWebBrowserControl/master/MediumSetting.PNG
