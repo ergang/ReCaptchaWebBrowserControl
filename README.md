@@ -1,6 +1,7 @@
 ## Default setting of WPF Web Browser Control does not render Medium security preference setting of ReCaptcha 
 
 To run the program on a Windows Machine
+
 1. Navigate to ReCaptchaWebBrowserControl\bin\Release
 2. Run `ReCaptchaWebBrowserControl.exe`
 
